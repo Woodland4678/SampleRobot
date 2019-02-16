@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "C:/Users/Public/frc2019/roborio/arm-frc2019-linux-gnueabi/usr/include"
             ],
             "defines": [
                 "_DEBUG",
